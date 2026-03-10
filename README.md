@@ -41,6 +41,7 @@ Role types that fit well include head of operations, chief of staff, strategy le
 ## Contact
 
 - **X/Twitter:** [@DisruptionJoe](https://x.com/DisruptionJoe)
+- **LinkedIn:** [linkedin.com/in/disruptionjoe](https://www.linkedin.com/in/disruptionjoe/)
 - **Email:** joe@disruptionjoe.com
 
 ---

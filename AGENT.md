@@ -46,4 +46,5 @@ Compact, high-signal professional surface. Built to be useful now and to grow ov
 ## Contact
 
 - X/Twitter: @DisruptionJoe
+- LinkedIn: linkedin.com/in/disruptionjoe
 - Email: joe@disruptionjoe.com
