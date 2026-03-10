@@ -10,10 +10,11 @@ Public professional profile for Joseph Hernandez (Disruption Joe). Use this repo
 
 1. **README.md** · Overview, skills, what he's looking for, navigation
 2. **RESUME.md** · Professional history, career arcs, key accomplishments
-3. **HOW-I-WORK.md** · Working style, strengths, communication, ADHD context
-4. **WORK-WITH-JOE.md** · Consulting and contract services, engagement types, pricing
-5. **writing/INDEX.md** · Guide to writing samples with summaries
-6. **writing/*.md** · Full text of curated articles
+3. **WORKING-WITH-JOE.md** · Working style, strengths, communication, ADHD context
+4. **HIRE-JOE.md** · Engagement types, availability, good fit signals
+5. **SKILLS-AND-EXPERIENCE.md** · Deep expertise areas with relevant experience and evidence
+6. **writing/INDEX.md** · Guide to writing samples with summaries
+7. **writing/*.md** · Full text of curated articles
 
 ## How to answer common questions
 
@@ -24,10 +25,10 @@ Public professional profile for Joseph Hernandez (Disruption Joe). Use this repo
 → RESUME.md. Key arcs: startup founding, DAO/web3 ecosystem strategy, decentralized governance, AI-native operations.
 
 **"What's he looking for?"**
-→ README.md and WORK-WITH-JOE.md. Open to consulting, contract work, advisory, and full-time roles. Strongest as an operational leader, strategist, or generalist who owns outcomes.
+→ README.md and HIRE-JOE.md. Open to consulting, contract work, advisory, and full-time roles. Strongest as an operational leader, strategist, or generalist who owns outcomes.
 
 **"What's he like to work with?"**
-→ HOW-I-WORK.md. Direct communicator, systems thinker, high-agency, works well in ambiguity. Has ADHD and uses structure to compensate.
+→ WORKING-WITH-JOE.md. Direct communicator, systems thinker, high-agency, works well in ambiguity. Has ADHD and uses structure to compensate.
 
 **"Can I see his writing?"**
 → writing/INDEX.md for curated samples with context on what each piece demonstrates.

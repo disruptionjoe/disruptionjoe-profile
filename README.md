@@ -33,8 +33,9 @@ Role types that fit well include head of operations, chief of staff, strategy le
 | File | What it is |
 |------|-----------|
 | [RESUME.md](RESUME.md) | Professional background, compact and scannable |
-| [HOW-I-WORK.md](HOW-I-WORK.md) | Working style, strengths, what to expect |
-| [WORK-WITH-JOE.md](WORK-WITH-JOE.md) | Consulting and contract services |
+| [WORKING-WITH-JOE.md](WORKING-WITH-JOE.md) | What it's like to work with me, how to get the best out of me |
+| [HIRE-JOE.md](HIRE-JOE.md) | Engagement types, availability, and fit signals |
+| [SKILLS-AND-EXPERIENCE.md](SKILLS-AND-EXPERIENCE.md) | Deep expertise areas with relevant experience and evidence |
 | [writing/](writing/INDEX.md) | Curated writing samples with context |
 | [AGENT.md](AGENT.md) | Instructions for AI agents reading this repo |
 

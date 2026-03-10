@@ -21,7 +21,7 @@ Operator who turns ambiguous, politically complex environments into measurable e
 ### Pure — Founder
 2025 – Present
 
-Building continuous sensory intelligence for decentralized ecosystems. Pure uses pairwise ranking and peer prediction to create better signal from community input. Also actively building and using AI-agent systems for personal and professional operations through an agent-first operating system.
+Building continuous sensory intelligence for decentralized ecosystems. Pure uses pairwise ranking and peer prediction to create better signal from community input. Pre-traction; currently pursuing contract, fractional, and select full-time opportunities alongside building it. Also actively building and using AI-agent systems for personal and professional operations through an agent-first operating system.
 
 ### NEAR Protocol / Hack Humanity (Consulting Contract)
 August 2025 – November 2025
@@ -83,10 +83,8 @@ Moraine Valley Community College
 
 ---
 
-## What I'm looking for now
+## Current availability
 
-Open to consulting, contract work, advisory roles, and full-time positions. Most interested in roles where I can operate as a strategic generalist who owns outcomes, not just tasks.
+For engagement types, availability, and fit signals, see [HIRE-JOE.md](HIRE-JOE.md).
 
-Best fit: head of operations, chief of staff, strategy lead, growth lead, product operations, or consulting engagements where a team needs clarity and execution capacity.
-
-**Contact:** joe@disruptionjoe.com · [@DisruptionJoe](https://x.com/DisruptionJoe)
+**Contact:** joe@disruptionjoe.com · [@DisruptionJoe](https://x.com/DisruptionJoe) · [LinkedIn](https://www.linkedin.com/in/disruptionjoe/)

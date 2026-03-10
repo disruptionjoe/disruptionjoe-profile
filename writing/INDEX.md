@@ -1,6 +1,6 @@
 # Writing Samples
 
-A curated selection of writing that demonstrates how I think. These are not blog posts — they're working documents that reflect how I approach complex problems: structurally, clearly, and with an eye toward systems that actually work.
+A curated selection of writing that demonstrates how I think. These are not blog posts. They're working documents that reflect how I approach complex problems: structurally, clearly, and with an eye toward systems that actually work.
 
 ---
 
