@@ -18,10 +18,10 @@ At this time, I'm open to the right full-time role, consulting engagement, or co
 I help founders and teams bring structure to messy, ambiguous work. My strengths are in strategy, operations, growth, facilitation, and AI-native workflow design. I'm most useful when something important needs to get clearer, move faster, or actually start working.
 
 - **Strategy and operations.** Turning high-level goals into concrete plans, then helping make them real.
-- **AI-native workflows.** Building practical systems where humans and AI agents work together well.
 - **Growth and go-to-market.** Thinking through how products reach people, how ecosystems grow, and how value gets measured.
 - **Facilitation and alignment.** Helping teams that are stuck, scattered, or overwhelmed get to clarity and action.
 - **Structured problem-solving.** Breaking ambiguous situations into workable next steps.
+-  **AI-native workflows.** Building practical systems where humans and AI agents work together well.
 
 ## What I'm looking for
 
