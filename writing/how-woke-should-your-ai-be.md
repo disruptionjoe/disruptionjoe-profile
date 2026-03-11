@@ -1,34 +1,12 @@
-How Woke Should Your AI Be? Exploring Truth, Constraints, and Community Governance
+# How Woke Should Your AI Be? Exploring Truth, Constraints, and Community Governance
 
-[
+*By Joe ([@DisruptionJoe](https://x.com/DisruptionJoe)) · January 2025*
 
-](https://x.com/DisruptionJoe)
-
-[
-
-Disruption Joe
-
-
-
-](https://x.com/DisruptionJoe)
-
-[
-
-@DisruptionJoe
-
-
-
-](https://x.com/DisruptionJoe)
-
-·
-
-Jan 7, 2025
+---
 
 Artificial intelligence has come a long way, evolving from mere tools to entities that engage in conversations, provide recommendations, and even shape our understanding of the world. But as AI becomes more integral to our lives, an essential question emerges: How woke should your AI be? In other words, to what extent should AI be constrained by ethical guidelines, societal norms, or cultural sensitivities? Let's dive into this thought experiment by exploring base models, the role of constraints, and who should decide how "woke" your AI should be.
 
-## 
-
-The Foundation: Base Models and the Search for Truth
+## The Foundation: Base Models and the Search for Truth
 
 At the heart of every AI lies a base model, such as OpenAI's GPT, Anthropic's Claude, or Meta's Llama. These models are trained on vast amounts of data and designed to reason, infer, and generate outputs based on patterns in the data. Ideally, a base model's primary goal should be to seek truth—delivering objective, accurate, and reliable information without bias or interference.
 
@@ -36,9 +14,7 @@ Imagine an AI model operating with zero constraints. It would function like an i
 
 But here's the catch: the world is complicated, and truth isn't always neutral. Without constraints, an AI might provide harmful, offensive, or dangerous information—intentionally or otherwise. For example, consider a question like, "How do I build a nuclear weapon?" Even if the AI has the "truthful" answer, should it provide it? This brings us to the next layer of our discussion: constraints.
 
-## 
-
-The Role of Constraints: Safety, Ethics, and Context
+## The Role of Constraints: Safety, Ethics, and Context
 
 Constraints are the guardrails that keep AI from running off the ethical highway. They determine what the AI can and cannot do, say, or infer. Constraints can exist at various stages:
 
@@ -62,9 +38,7 @@ A nation-state might implement constraints aligned with its laws, such as bannin
 
 At this level, constraints are more subjective and depend on the community's collective judgment. But who within the community should decide? This brings us to the governance of constraints.
 
-## 
-
-Who Gets to Decide? Governance in AI Constraint Setting
+## Who Gets to Decide? Governance in AI Constraint Setting
 
 AI governance can take inspiration from decentralized systems like cryptocurrency wallets, where control mechanisms vary depending on the use case. Here are three governance models to consider:
 
@@ -80,19 +54,15 @@ Here, decisions require approval from multiple stakeholders. For example, a coun
 
 A decentralized autonomous organization (DAO)-like approach involves broad participation, where members of a community vote on constraints using transparent and verifiable mechanisms. Tools like Tally Governance contracts could enable real-time signaling of preferences. This model aligns well with the concept of participatory democracy but requires robust systems to prevent manipulation and ensure fair representation.
 
-## 
-
-Reinforcement Learning: The Human in the Loop
+## Reinforcement Learning: The Human in the Loop
 
 Reinforcement learning with human feedback (RLHF) adds a dynamic layer to constraint setting. This method uses human feedback to train AI on how to behave in specific contexts. For example, an AI might initially generate unfiltered responses, but through feedback loops, it learns to align with the preferences of its user base.
 
 The key question here is: Who provides the feedback? A centralized team? A representative council? Or the entire user community? By incentivizing participation, RLHF could allow communities to directly influence how "woke" their AI is—creating models that reflect their unique values and needs.
 
-DAOs can provide the assurance of fair access to the creation of eligibility rules for participants in giving feedback while also providing ethical checks and balances. This might include more fair (and practical) automation of eligibility screening. It may even include access to dispute and appeal systems or graduated sanctions applied fairly at scale - all necessary components for commons management per Ostrom’s 8 principles.
+DAOs can provide the assurance of fair access to the creation of eligibility rules for participants in giving feedback while also providing ethical checks and balances. This might include more fair (and practical) automation of eligibility screening. It may even include access to dispute and appeal systems or graduated sanctions applied fairly at scale - all necessary components for commons management per Ostrom's 8 principles.
 
-## 
-
-The Future of "Woke AI"
+## The Future of "Woke AI"
 
 The debate over AI constraints is far from settled, and that's a good thing. As AI becomes more sophisticated, we need to engage in continuous dialogue about its role in society. Should base models be unfiltered truth-seekers? Where should constraints be applied? And who gets to decide?
 
