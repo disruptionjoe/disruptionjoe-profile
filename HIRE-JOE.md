@@ -56,19 +56,6 @@ The best fit is likely a company or project where I can contribute meaningfully 
 
 ---
 
-## Good fit signals
-
-You may be a strong fit if:
-- you are dealing with more ambiguity than structure
-- you need someone who can help define the real problem, not just execute tasks
-- you need a product-minded operator who can bridge strategy and execution
-- you are building systems involving incentives, contributors, governance, or coordination
-- you want help making AI useful in real workflows rather than adopting it superficially
-- you are operating in a decentralized, ecosystem, community-driven, or multi-stakeholder environment
-- you need a capable generalist with unusually strong depth in incentive systems, governance, and product-like system design
-
----
-
 ## Get in touch
 
 **Email:** joe@disruptionjoe.com

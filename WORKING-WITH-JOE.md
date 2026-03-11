@@ -6,16 +6,6 @@ This document is a practical guide for people who might hire me, work with me on
 
 ---
 
-## What I am best at
-
-I create the most value when the work involves ambiguity, complexity, and the need to turn messy inputs into forward motion. That includes strategic clarity, fast synthesis, defining the real problem, making decisions, facilitating discussions that lead somewhere, and recognizing patterns across moving parts.
-
-People often tell me that talking through a problem with me helps them see the pieces more clearly. That is one of the main ways I add value.
-
-I am most energized by early-stage problem framing, live strategy conversations, divergent-then-convergent thinking, facilitation, and stakeholder conversations that directly support solving the work. I like situations where there is real thinking to do, not just execution against a fixed checklist.
-
----
-
 ## What drains me
 
 Tedious admin, file management, documentation overhead, meticulous polish passes, operational cleanup as a primary function, and relationship management or lead generation as the main job.
@@ -55,6 +45,8 @@ The most natural entry point is: **help us move from messy discussion to clear n
 Other good uses: frame the situation, define the real problem, pressure-test our thinking, facilitate this group, decide between options, talk to stakeholders and bring back synthesis, own a clearly defined workstream, bridge from problem framing into execution.
 
 I tend to work best as an advisor, thought partner, facilitator, or workstream owner with real empowerment. I can serve as an interim operator, but that usually works best when it is filling a gap, not the primary use of me.
+
+Facilitation is one of my strongest tools. I am good at running sessions that turn scattered discussion into decisions, getting groups aligned without forcing consensus, and helping teams that are stuck find a way forward. I have spoken at ETHDenver and led 100+ meetups — I am comfortable explaining complex systems to mixed audiences and keeping a room productive.
 
 Empowered ownership means being given the challenge, not just a task list. I want room to help identify the real problem, shape the approach, and be accountable for outcomes.
 
