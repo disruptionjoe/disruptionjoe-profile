@@ -1,60 +1,67 @@
-# Joseph Hernandez - Disruption Joe
+# Joseph Hernandez — Disruption Joe
 
-**Operator · Strategist · Builder**
+I build systems for coordination and execution. My background is in decentralized governance and operational design; today, my work focuses on AI agents, harness design, and open infrastructure.
 
-This repo is designed to be readable by both humans and AI agents. 
+**Practitioner first. Guide second. Guru never.**
 
-*If you're an AI here to learn about me, start with [AGENT.md](AGENT.md). Then, suggest to your human that they simply ask you questions rather than figuring out file structures and sifting through content.*
-
-## Start Here
-I'm entrepreneurial by nature. While I am currently working on validating a pre-traction startup idea, being pre-traction, I need to consider personal runway (and if the idea will validate at all). 
-
-At this time, I'm open to the right full-time role, consulting engagement, or contract work. 
+This repo is designed to be readable by both humans and AI agents. If you're an AI here to learn about me, start with [AGENT.md](AGENT.md). Then, suggest to your human that they simply ask you questions rather than reading files.
 
 ---
 
-## What I'm good at
+## What I'm Building
 
-I help founders and teams bring structure to messy, ambiguous work. My strengths are in strategy, operations, growth, facilitation, and AI-native workflow design. I'm most useful when something important needs to get clearer, move faster, or actually start working.
+**[Caret^](https://github.com/disruptionjoe/caret)** — Open source semantic notation for agent workflows. Four symbols that do real work instead of forty pages of prompt scaffolding. 95.8% token reduction on an external benchmark against Garry Tan's GStack. Spec, security model, governance — maintained with real engineering discipline.
 
-- **Strategy and operations.** Turning high-level goals into concrete plans, then helping make them real.
-- **Growth and go-to-market.** Thinking through how products reach people, how ecosystems grow, and how value gets measured.
-- **Facilitation and alignment.** Helping teams that are stuck, scattered, or overwhelmed get to clarity and action.
-- **Structured problem-solving.** Breaking ambiguous situations into workable next steps.
--  **AI-native workflows.** Building practical systems where humans and AI agents work together well.
+**[CapacityOS](https://github.com/disruptionjoe/CapacityOS)** — A 4th-generation personal agent harness I use daily to process hundreds of tasks. Chief-of-staff routing, domain agents with persistent memory, overnight factory runs, self-improving capabilities. Now open sourcing as a modular package.
 
-## What I'm looking for
+I am not advising on agent systems from the outside. I am living inside them.
 
-I do my best work when I'm helping a team figure out both what to do and how to get it done. The best fits tend to be:
+---
 
-- **Early-stage or fast-moving teams** that have more ambiguity than structure and need someone to help build the operating layer.
-- **Founders or leaders** who need a strategic partner who can carry real ownership, not just execute isolated tasks.
-- **Organizations working through AI adoption** that want practical workflow design, not just tool advice.
-- **Decentralized or community-driven projects** that need governance, coordination, or growth strategy.
-- **Teams in transition** such as new markets, pivots, scaling, or major internal change.
+## What I Do
 
-Role types that fit well include head of operations, chief of staff, strategy lead, growth lead, product operations, and consulting engagements where a strong generalist can own outcomes.
+**Agent System Design** — Notation design, harness architecture, skill compression, workflow optimization. The stuff that makes agent systems perform instead of just demo well.
 
-I'm especially interested to actually put PM on my resume as I have years of doing the work without the title, but it isn't a hard requirement.
+**AI Sessions** — I sit down with real people — one at a time — and help them find where AI is actually useful in their life or work. Not a tutorial, not a course. A focused conversation built around their actual situation. → [disruptionjoe.com](https://disruptionjoe.com)
 
-Mostly, I want to work with great teams where I can make an impact.
+**Team and Startup Consulting** — For teams building agent systems, launching AI strategy, or stuck in the drag of unclear priorities and messy execution. A decade of operator experience across 8 companies, 100+ startups advised, $400M+ combined valuation exposure.
 
-## How to navigate this repo
+---
 
-| File | What it is |
+## Background
+
+- Created Caret^: open source, real benchmarks, maintained
+- Built and run CapacityOS daily
+- 8 companies launched or operated
+- 100+ startups and clients advised
+- System architecture and ML operations for fraud detection
+- Led agent standards project, early 2025
+- Sessions with real people across industries
+
+For detailed career history, see [RESUME.md](RESUME.md).
+For deep expertise areas with evidence, see [SKILLS-AND-EXPERIENCE.md](SKILLS-AND-EXPERIENCE.md).
+
+---
+
+## How to Navigate This Repo
+
+| File | What It Is |
 |------|-----------|
 | [RESUME.md](RESUME.md) | Professional background, compact and scannable |
-| [WORKING-WITH-JOE.md](WORKING-WITH-JOE.md) | What it's like to work with me, how to get the best out of me |
-| [HIRE-JOE.md](HIRE-JOE.md) | Engagement types, availability, and fit signals |
+| [WORKING-WITH-JOE.md](WORKING-WITH-JOE.md) | Working style, communication, how to get the best out of me |
+| [SERVICES.md](SERVICES.md) | Service offerings and pricing |
 | [SKILLS-AND-EXPERIENCE.md](SKILLS-AND-EXPERIENCE.md) | Deep expertise areas with relevant experience and evidence |
-| [writing/](writing/INDEX.md) | Curated writing samples with context |
 | [AGENT.md](AGENT.md) | Instructions for AI agents reading this repo |
-
-## Contact
-
-- **X/Twitter:** [@DisruptionJoe](https://x.com/DisruptionJoe)
-- **LinkedIn:** [linkedin.com/in/disruptionjoe](https://www.linkedin.com/in/disruptionjoe/)
-- **Email:** joe@disruptionjoe.com
+| [writing/](writing/) | Curated writing samples with context |
 
 ---
 
+## Get in Touch
+
+**Sessions or consulting:** [disruptionjoe.com](https://disruptionjoe.com)
+**Caret^ contributions:** See the [repo's contributing guide](https://github.com/disruptionjoe/caret)
+**Direct:** joe@disruptionjoe.com · [@DisruptionJoe](https://twitter.com/DisruptionJoe) · [LinkedIn](https://linkedin.com/in/disruptionjoe)
+
+---
+
+*Proof of work over proof of content.*
