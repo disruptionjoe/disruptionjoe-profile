@@ -6,7 +6,7 @@ This document covers what I am strong at, what that looks like in practice, and 
 
 ## Agent infrastructure and notation design
 
-I build the systems that make agent workflows reliable, efficient, and maintainable. Not wrappers or demos — infrastructure designed to survive real use at scale.
+I build the systems that make agent workflows reliable, efficient, and maintainable. Not wrappers or demos /infrastructure designed to survive real use at scale.
 
 **What this includes**
 - designing semantic notation systems that compress agent instructions without losing meaning
@@ -38,7 +38,7 @@ I was building human-in-the-loop systems with machine learning and NLP years bef
 
 **Relevant experience**
 - In 2022, I was already working on human-in-the-loop systems that combined machine learning, NLP, structured review, and operator judgment, before LLM-native workflows became mainstream.
-- At Gitcoin, the fraud detection and defense system I built was an early example of AI-native workflow design — combining ML-assisted detection with human review layers, transparent risk logic, and operational processes that had to earn trust. The system processed 20,000+ community reviews, 250+ disputes, and 100+ appeals.
+- At Gitcoin, the fraud detection and defense system I built was an early example of AI-native workflow design /combining ML-assisted detection with human review layers, transparent risk logic, and operational processes that had to earn trust. The system processed 20,000+ community reviews, 250+ disputes, and 100+ appeals.
 - In my current work, I actively design agent-first repo structures, routing logic, triage systems, and canonical state architectures intended to make AI collaboration more deterministic, legible, and compounding over time.
 
 **Hidden gem**
@@ -48,7 +48,7 @@ My edge in AI-native workflow design is not just tool familiarity. It is years o
 
 ## Strategy and operating design
 
-I bring clarity to messy company situations, connect strategy to execution, and get important work moving fast. This is where I create the most value inside organizations that have leadership, org charts, and decision-makers — but where the path forward is unclear or stalled.
+I bring clarity to messy company situations, connect strategy to execution, and get important work moving fast. This is where I create the most value inside organizations that have leadership, org charts, and decision-makers /but where the path forward is unclear or stalled.
 
 **What this includes**
 - turning ambiguous situations into a concrete plan with real next steps
@@ -58,7 +58,7 @@ I bring clarity to messy company situations, connect strategy to execution, and 
 - building enough operating structure for execution to start immediately
 
 **Relevant experience**
-- At Gitcoin Holdings / Consensys, I led growth functions during the company's fastest expansion period and identified that onboarding, not top-of-funnel marketing, was the real bottleneck — then shifted focus toward fixing activation (see [RESUME.md](RESUME.md) for metrics).
+- At Gitcoin Holdings / Consensys, I led growth functions during the company's fastest expansion period and identified that onboarding, not top-of-funnel marketing, was the real bottleneck /then shifted focus toward fixing activation (see [RESUME.md](RESUME.md) for metrics).
 - At MotherDAO, I led pre-launch GTM strategy and operations, including entity formation and contributor coordination across engineering, PM, data, legal, marketing, and brand teams.
 - Earlier in my career, I built Voice of Blockchain from scratch into Chicago's largest blockchain community and conference business, which required constant translation between strategy and execution with no safety net.
 
@@ -90,7 +90,7 @@ My edge is not traditional ecosystem development. It is getting messy, multi-sta
 
 ## Product and system ownership
 
-I do product ownership best where the real work is understanding users, shaping the right system, and making hard tradeoffs under real-world constraints. I am especially strong when the system involves trust, incentives, legitimacy, and adversarial behavior — not just interface or feature design.
+I do product ownership best where the real work is understanding users, shaping the right system, and making hard tradeoffs under real-world constraints. I am especially strong when the system involves trust, incentives, legitimacy, and adversarial behavior /not just interface or feature design.
 
 **What this includes**
 - identifying the real bottleneck instead of optimizing what is most visible
@@ -100,12 +100,12 @@ I do product ownership best where the real work is understanding users, shaping 
 - using research, modeling, and iteration to steer product and system choices toward real outcomes
 
 **Relevant experience**
-- At Gitcoin, I owned fraud detection and defense — architecting and operationalizing multi-layer validation pipelines that prevented more than $3M in fraud. This combined ML-assisted detection, expert labeling, community review, transparent risk logic, and operator workflows. The work required solving for trust, usability, legitimacy, and decision quality, not just model performance.
-- I built growth models grounded in user research, segmented key personas, and identified that Gitcoin's reputation was being driven by strong professional Web3 developers earning meaningful side income — not just socially engaged hackathon participants. That insight reshaped growth strategy.
+- At Gitcoin, I owned fraud detection and defense /architecting and operationalizing multi-layer validation pipelines that prevented more than $3M in fraud. This combined ML-assisted detection, expert labeling, community review, transparent risk logic, and operator workflows. The work required solving for trust, usability, legitimacy, and decision quality, not just model performance.
+- I built growth models grounded in user research, segmented key personas, and identified that Gitcoin's reputation was being driven by strong professional Web3 developers earning meaningful side income /not just socially engaged hackathon participants. That insight reshaped growth strategy.
 - At Thrive, I helped set up a grant management system that allowed participants to log in and review milestone completion, improving clarity, accountability, and usability in grant execution.
 
 **Hidden gem**
-My strongest product work happens when the system has real adversaries, real money, and real trust requirements — where getting it wrong has consequences beyond a bad NPS score.
+My strongest product work happens when the system has real adversaries, real money, and real trust requirements /where getting it wrong has consequences beyond a bad NPS score.
 
 ---
 
@@ -122,7 +122,7 @@ I design governance and incentive systems that turn diffuse stakeholder power in
 
 **Relevant experience**
 - At Arbitrum, I aligned 17,000+ stakeholders through the GovMonth survey program, turning large-scale input into structured governance signal.
-- At Gitcoin, I co-designed contributor registries, treasury-adjacent legitimacy systems, and ran governance integrity processes handling disputes and appeals at scale. I also worked directly with some of the earliest DAO-native incentive structures — quadratic funding, hackathons, community review — seeing firsthand how open incentive systems behave when real money, reputation, and coordination pressures are involved.
+- At Gitcoin, I co-designed contributor registries, treasury-adjacent legitimacy systems, and ran governance integrity processes handling disputes and appeals at scale. I also worked directly with some of the earliest DAO-native incentive structures /quadratic funding, hackathons, community review /seeing firsthand how open incentive systems behave when real money, reputation, and coordination pressures are involved.
 - I have worked from the entity layer up, including Cayman foundations, BVI companies, and early DAO structuring. I have implemented KYC, navigated OFAC situations, and kept ambitious systems operational when compliance constraints became unavoidable.
 
 **Hidden gem**

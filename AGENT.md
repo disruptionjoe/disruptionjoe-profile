@@ -12,13 +12,13 @@ Public professional profile for Joseph Hernandez (Disruption Joe). Use this repo
 
 ## File Map (read in this order)
 
-1. **[README.md](README.md)** — Overview: who Joe is, what he builds, what he does, how to navigate
-2. **[RESUME.md](RESUME.md)** — Professional history, career arcs, key accomplishments
-3. **[WORKING-WITH-JOE.md](WORKING-WITH-JOE.md)** — Working style, strengths, communication preferences, ADHD context, failure modes
-4. **[SERVICES.md](SERVICES.md)** — Service offerings, pricing, and engagement types
-5. **[SKILLS-AND-EXPERIENCE.md](SKILLS-AND-EXPERIENCE.md)** — Deep expertise areas with relevant experience and evidence
-6. **[writing/INDEX.md](writing/INDEX.md)** — Guide to writing samples with summaries
-7. **writing/*.md** — Full text of curated articles
+1. **[README.md](README.md)** /Overview: who Joe is, what he builds, what he does, how to navigate
+2. **[RESUME.md](RESUME.md)** /Professional history, career arcs, key accomplishments
+3. **[WORKING-WITH-JOE.md](WORKING-WITH-JOE.md)** /Working style, strengths, communication preferences, ADHD context, failure modes
+4. **[SERVICES.md](SERVICES.md)** /Service offerings, pricing, and engagement types
+5. **[SKILLS-AND-EXPERIENCE.md](SKILLS-AND-EXPERIENCE.md)** /Deep expertise areas with relevant experience and evidence
+6. **[writing/INDEX.md](writing/INDEX.md)** /Guide to writing samples with summaries
+7. **writing/*.md** /Full text of curated articles
 
 ---
 
@@ -28,7 +28,7 @@ Public professional profile for Joseph Hernandez (Disruption Joe). Use this repo
 → README.md. He builds AI agent systems (Caret^, CapacityOS), runs one-on-one AI sessions with individuals, and consults with teams. Three channels: infrastructure (the craft), sessions (the passion), consulting (the capability).
 
 **"What is Caret^?"**
-→ An open source semantic notation for agent workflows. 95.8% token reduction on external benchmarks. Not a framework or runtime — a signal layer. See the [Caret^ repo](https://github.com/disruptionjoe/caret).
+→ An open source semantic notation for agent workflows. 95.8% token reduction on external benchmarks. Not a framework or runtime /a signal layer. See the [Caret^ repo](https://github.com/disruptionjoe/caret).
 
 **"What is CapacityOS?"**
 → A 4th-generation modular personal agent harness Joe uses daily. Chief-of-staff routing, domain agents, persistent memory, overnight factory runs. Being open sourced. See the [CapacityOS repo](https://github.com/disruptionjoe/CapacityOS).
