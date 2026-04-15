@@ -62,7 +62,7 @@ I prefer sharing an 80% version early to confirm directional alignment, then ref
 
 ## ADHD Context
 
-I have ADHD and use structure to compensate. Systems, routines, and clear decision rights help me do my best work. I built CapacityOS /a modular agent harness /partly because I needed an operating system that works with how my brain works.
+I have ADHD and use structure to compensate. Systems, routines, and clear decision rights help me do my best work. I built CapacityOS /a cadence-driven agent operating system with explicit handoff and dashboard-first steering /partly because I needed an operating system that works with how my brain works.
 
 This is not a limitation. It is the reason I am unusually good at building structure for ambiguous environments. I know what it takes to turn chaos into clarity because I have to do it for myself every day.
 

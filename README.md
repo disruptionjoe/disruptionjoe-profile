@@ -10,9 +10,9 @@ This repo is designed to be readable by both humans and AI agents. If you're an 
 
 ## What I'm Building
 
-**[Caret^](https://github.com/disruptionjoe/caret)** / Open source semantic notation for agent workflows. Four symbols that do real work instead of forty pages of prompt scaffolding. 95.8% token reduction on an external benchmark against Garry Tan's GStack. Spec, security model, governance, maintained with real engineering discipline.
+**[Caret^](https://github.com/disruptionjoe/caret)** / Open source semantic notation for agent workflows in Markdown. It restores expressivity to prompts: volume, timbre, tone, and scalar directives instead of piles of scaffolding. Practical, inspectable, and built with real engineering discipline. It can often cut token use roughly in half.
 
-**[CapacityOS](https://github.com/disruptionjoe/CapacityOS)** / A 4th-generation personal agent harness I use daily to process hundreds of tasks. Chief-of-staff routing, domain agents with persistent memory, overnight factory runs, self-improving capabilities. Now open sourcing as a modular package.
+**[CapacityOS](https://github.com/disruptionjoe/CapacityOS)** / A fourth-generation personal agent harness I use daily, soon to be open sourced. Cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering keep real work moving without losing control.
 
 I am not advising on agent systems from the outside. I am living inside them.
 
@@ -24,18 +24,18 @@ I am not advising on agent systems from the outside. I am living inside them.
 
 **AI Sessions** / I sit down with real people, one at a time, and help them find where AI is actually useful in their life or work. Not a tutorial, not a course. A focused conversation built around their actual situation. → [disruptionjoe.com](https://disruptionjoe.com)
 
-**Team and Startup Consulting** / For teams building agent systems, launching AI strategy, or stuck in the drag of unclear priorities and messy execution. A decade of operator experience across 8 companies, 100+ startups advised, $400M+ combined valuation exposure.
+**Team AI Sessions and Strategy Services** / For teams building agent systems, launching AI strategy, or stuck in the drag of unclear priorities and messy execution. Engagements start at $900. A decade of operator experience across 8 companies, 100+ startups advised, $400M+ combined valuation exposure.
 
 ---
 
 ## Background
 
-- Created Caret^: open source, real benchmarks, maintained
+- Created Caret^: an expressivity layer for agent workflows, not just another framework
 - Built and run CapacityOS daily
+- Designed agent marketplace standards before most people first heard the word "agent"
+- Helped shape $50M+ in public-goods funding experiments and fraud-resistant systems
 - 8 companies launched or operated
 - 100+ startups and clients advised
-- System architecture and ML operations for fraud detection
-- Led agent standards project, early 2025
 - Sessions with real people across industries
 
 For detailed career history, see [RESUME.md](RESUME.md).

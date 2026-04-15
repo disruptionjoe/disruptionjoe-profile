@@ -17,9 +17,9 @@ You may not have started at all. You may be customizing agent harnesses. I meet 
 
 ---
 
-## Team and Leadership Consulting
+## Team AI Sessions and Strategy Services
 
-For teams building agent systems, adopting AI workflows, or stuck in the drag of unclear priorities, messy communication, or too much friction between people and the work.
+For teams building agent systems, adopting AI workflows, or stuck in the drag of unclear priorities, messy communication, or too much friction between people and the work. Team engagements start at $900.
 
 All team engagements start with discovery.
 
@@ -44,7 +44,7 @@ Ongoing access for teams that want a practitioner in their corner. Agent system 
 
 ## What I Bring
 
-This is not strategy consulting from someone who reads about AI. I build agent systems daily. I created [Caret^](https://github.com/disruptionjoe/caret), an open source notation with a 95.8% token reduction benchmark. I run [CapacityOS](https://github.com/disruptionjoe/CapacityOS), a modular agent harness, as my daily operating system.
+This is not strategy consulting from someone who reads about AI. I build agent systems daily. I created [Caret^](https://github.com/disruptionjoe/caret), an open source notation that restores expressivity to prompts and can often cut token use roughly in half. I run [CapacityOS](https://github.com/disruptionjoe/CapacityOS), my fourth-generation personal agent harness, with cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering.
 
 A decade of operator experience: 8 companies launched, $400M+ combined valuation exposure, 100+ startups and clients advised. System architecture and ML operations for fraud detection before LLMs went mainstream.
 

@@ -10,10 +10,10 @@ Operator who turns ambiguous, politically complex environments into measurable e
 ## Accomplishments
 
 - **$3M+ fraud prevented** by establishing and scaling Sybil/anti-abuse systems for grants and capital allocation.
-- **$10M+ in capital allocation programs** designed and implemented across major ecosystems, winning votes and renewals in adversarial DAO/public-goods environments with tangible outcome results.
+- **$50M+ in public-goods funding programs and experiments** helped design and operate across major ecosystems, winning votes and renewals in adversarial DAO/public-goods environments with tangible outcome results.
 - **10k to 100k users and $50M GMV** driven by building measurable growth loops and experimentation cadence as a startup operations and growth lead.
 - **4,000+ members** scaled in a local crypto ecosystem, including a recurring IRL conference business.
-- **95.8% token reduction** achieved with Caret^, an open source semantic notation for agent workflows, benchmarked against Garry Tan's GStack.
+- **Practical prompt expressivity tooling** built with Caret^, an open source semantic notation for agent workflows that can materially reduce token overhead while preserving intent.
 
 ---
 
@@ -22,11 +22,11 @@ Operator who turns ambiguous, politically complex environments into measurable e
 ### Disruption Joe /Founder & Operator
 **2025 – Present**
 
-Building agent infrastructure and running AI consulting. Three channels:
+Building agent infrastructure and running AI consulting. I was already personalizing agent systems before most people had heard the word "agent," including leading an agent marketplace standards project in Q1 2025. Three channels:
 
-**Caret^** /Created an open source semantic notation for agent workflows. 95.8% token reduction on external benchmarks. Working spec, formal semantics, security model, and governance. [github.com/disruptionjoe/caret](https://github.com/disruptionjoe/caret)
+**Caret^** /Created an open source semantic notation for agent workflows that restores expressivity in Markdown with scalar directives and layered scope. Working spec, formal semantics, security model, governance, and practical token savings as a secondary benefit. [github.com/disruptionjoe/caret](https://github.com/disruptionjoe/caret)
 
-**CapacityOS** /Built a 4th-generation modular personal agent harness with chief-of-staff routing, domain agents, persistent memory, and overnight factory runs. Used daily. Now open sourcing as a modular package. [github.com/disruptionjoe/CapacityOS](https://github.com/disruptionjoe/CapacityOS)
+**CapacityOS** /Built a fourth-generation personal agent harness with cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering. Used daily. Soon to be open sourced. [github.com/disruptionjoe/CapacityOS](https://github.com/disruptionjoe/CapacityOS)
 
 **AI Sessions & Consulting** /One-on-one sessions with individuals to find where AI fits their actual work. Team consulting for AI strategy, agent architecture, and operational clarity. [disruptionjoe.com](https://disruptionjoe.com)
 
