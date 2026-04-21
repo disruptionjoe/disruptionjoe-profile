@@ -18,13 +18,13 @@ I hold strong opinions loosely. I may speak clearly and confidently, but that do
 
 ## Where I Create the Most Value
 
-I am at my best when I am brought in early, given a meaningful challenge rather than a narrow task list, and allowed to help turn ambiguity into a clear problem, strong decisions, and forward momentum.
+I am at my best when I am in the room with a team, helping them move from ambiguity to shared clarity and concrete next steps. That is why I built the AI Activations Playbook and why facilitation is at the center of my current work.
 
-The most natural entry point is: help us move from messy discussion to clear next steps.
+The most natural entry point is: help a team get aligned, engaged, and moving together.
 
-Other good uses: frame the situation, define the real problem, pressure-test our thinking, facilitate a group, decide between options, bridge from problem framing into execution, own a clearly defined workstream.
+Other good uses: frame the situation, define the real problem, pressure-test thinking, facilitate a group through a decision, bridge from problem framing into execution, design a session or workshop, own a clearly defined workstream.
 
-Facilitation is one of my strongest tools. I have spoken at ETHDenver, led 100+ meetups, and run sessions with audiences ranging from retirees to startup founders. I am comfortable explaining complex systems to mixed audiences and keeping a room productive.
+Facilitation is my strongest tool and my primary offering. I have spoken at ETHDenver, led 100+ meetups, and run sessions with audiences ranging from retirees to startup founders to enterprise leadership teams. I know how to read a room, keep different kinds of people engaged in the same experience, and make sure the session produces something useful. I spent ten years DJing and years in retail sales and bartending, all of which trained the ability to hold energy across different audiences.
 
 ---
 

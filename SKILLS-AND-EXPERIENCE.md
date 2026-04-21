@@ -4,6 +4,29 @@ This document covers what I am strong at, what that looks like in practice, and 
 
 ---
 
+## Facilitation and design thinking
+
+The hardest part of AI adoption is not finding the right tool. It is getting a room full of people with different experience levels to engage honestly, try things, and leave with shared momentum. That is what I do.
+
+**What this includes**
+- reading a room and adapting in real time to energy, resistance, and engagement levels
+- designing session structures that surface the right problems before jumping to solutions
+- turning ambiguity into shared clarity and concrete next steps across mixed-experience groups
+- using design thinking patterns (divergent/convergent, private-to-shared, constraint injection) to produce useful outputs from group work
+- building methodologies that make facilitation repeatable and transferable, not dependent on improvisation
+
+**Relevant experience**
+- Designed and built the [AI Activations Playbook](https://disruptionjoe.com/playbook/), a facilitation methodology for team AI adoption. The playbook is structured as arcs, plays, and moves: 8 arcs, 30 plays, and 31 moves that can be composed into different session shapes depending on the team's starting point and goals.
+- Ran facilitated sessions with audiences ranging from retirees to startup founders to enterprise leadership teams. Led 100+ meetups and spoken at major conferences including ETHDenver.
+- Built Voice of Blockchain into Chicago's largest blockchain community (4,000 members) and ran four major conferences (400 to 1,200 attendees), which required constant live facilitation across very different audience segments.
+- Spent ten years DJing, which trained the ability to read a crowd, hold energy, and keep different kinds of people engaged in the same experience.
+- Pressure-tested design thinking techniques across product design sessions, leadership syncs, and highly consequential governance decisions where getting alignment wrong had real financial and organizational consequences.
+
+**Hidden gem**
+My edge is not that I know design thinking methodology. It is that I have been the person in the room making it work under pressure, across wildly different contexts, for over a decade. Most people who talk about facilitation have not actually had to hold a room where the stakes were real.
+
+---
+
 ## Agent infrastructure and notation design
 
 I build the systems that make agent workflows reliable, efficient, and maintainable. Not wrappers or demos /infrastructure designed to survive real use at scale.

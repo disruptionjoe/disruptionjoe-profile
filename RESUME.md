@@ -1,9 +1,9 @@
 # Joseph Hernandez /Resume
 
-**Agent Infrastructure Builder | AI Sessions | Team Consulting**
+**Team AI Facilitation | AI Activations Playbook | Agent Infrastructure**
 Chicago, IL · joe@disruptionjoe.com · [LinkedIn](https://linkedin.com/in/disruptionjoe) · disruptionjoe on TG & socials
 
-Operator who turns ambiguous, politically complex environments into measurable execution. Track record designing and shipping governance, incentive, and evaluation systems where trust, fraud resistance, and stakeholder alignment are first-order constraints. Deep Web3/DAO experience with mainstream operator instincts: KPI trees, operating cadences, decision rights clarity, and ship-weekly execution. Currently building open source agent infrastructure and helping people find where AI actually fits their work.
+I help teams adopt AI through facilitated sessions built on design thinking and real AI depth. My work sits at the intersection of three skill sets: AI/ML practitioner experience (fraud detection, human-in-the-loop pipelines, agent infrastructure), a decade of startup operating (8 companies, 100+ startups advised), and facilitation instincts tested across product design, leadership syncs, and high-stakes governance decisions. I build the tools I use daily (Caret^, CapacityOS) and designed the AI Activations Playbook as a methodology for turning mixed-comfort rooms into aligned, activated teams.
 
 ---
 
@@ -20,15 +20,17 @@ Operator who turns ambiguous, politically complex environments into measurable e
 ## Experience
 
 ### Disruption Joe /Founder & Operator
-**2025 – Present**
+**2025 - Present**
 
-Building agent infrastructure and running AI consulting. I was already personalizing agent systems before most people had heard the word "agent," including leading an agent marketplace standards project in Q1 2025. Three channels:
+Designing and delivering AI Activation sessions for teams, running individual AI sessions, and building the agent infrastructure that powers the work. I was already personalizing agent systems before most people had heard the word "agent," including leading an agent marketplace standards project in Q1 2025.
 
-**Caret^** /Created an open source semantic notation for agent workflows that restores expressivity in Markdown with scalar directives and layered scope. Working spec, formal semantics, security model, governance, and practical token savings as a secondary benefit. [github.com/disruptionjoe/caret](https://github.com/disruptionjoe/caret)
+**AI Activations** /Facilitated team sessions for AI adoption using a proprietary methodology (the AI Activations Playbook). Sessions cover use-case discovery, readiness assessment, adoption roadmapping, capability building, and executive alignment. The methodology combines design thinking facilitation patterns with hands-on AI engagement so teams leave with useful outputs, not just a good conversation. [disruptionjoe.com/teams](https://disruptionjoe.com/teams/)
 
-**CapacityOS** /Built a fourth-generation personal agent harness with cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering. Used daily. Soon to be open sourced. [github.com/disruptionjoe/CapacityOS](https://github.com/disruptionjoe/CapacityOS)
+**Individual AI Sessions** /One-on-one sessions with individuals to find where AI fits their actual work. [disruptionjoe.com/people](https://disruptionjoe.com/people/)
 
-**AI Sessions & Consulting** /One-on-one sessions with individuals to find where AI fits their actual work. Team consulting for AI strategy, agent architecture, and operational clarity. [disruptionjoe.com](https://disruptionjoe.com)
+**Caret^** /Created an open source semantic notation for agent workflows that restores expressivity in Markdown with scalar directives and layered scope. Prompt length reduced by 95.8% across sample set. [github.com/disruptionjoe/caret](https://github.com/disruptionjoe/caret)
+
+**CapacityOS** /Built a fourth-generation personal agent harness with cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering. Used daily. [github.com/disruptionjoe/CapacityOS](https://github.com/disruptionjoe/CapacityOS)
 
 ### Pure /Co-founder
 **2025**

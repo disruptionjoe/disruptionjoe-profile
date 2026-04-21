@@ -1,6 +1,8 @@
 # Joseph Hernandez / Disruption Joe
 
-I build systems for coordination and execution. My background is in decentralized governance and operational design; today, my work focuses on AI agents, harness design, and open infrastructure.
+AI adoption starts with people, not prompts. I design engaging, insight-rich sessions that help teams move from curiosity and skepticism to alignment with concrete next steps. I also work one-on-one with individuals who want to skip weeks of trial and error.
+
+My work sits at an unusual intersection of three skill sets: real AI and ML depth, a decade of startup operating experience, and design-thinking-driven facilitation.
 
 **Practitioner first. Guide second. Guru never.**
 
@@ -8,35 +10,34 @@ This repo is designed to be readable by both humans and AI agents. If you're an 
 
 ---
 
-## What I'm Building
+## What I Do
 
-**[Caret^](https://github.com/disruptionjoe/caret)** / Open source semantic notation for agent workflows in Markdown. It restores expressivity to prompts: volume, timbre, tone, and scalar directives instead of piles of scaffolding. Practical, inspectable, and built with real engineering discipline. It can often cut token use roughly in half.
+**Team AI Activations** / Facilitated sessions for teams adopting AI, launching strategy, or stuck in the drag of unclear priorities and mismatched expectations. I use the [AI Activations Playbook](https://disruptionjoe.com/playbook/), a methodology built from design thinking and facilitation patterns that turns rooms of mixed comfort levels into shared clarity, real use cases, and momentum people actually own. Sessions range from 90-minute online ($1,500) to multi-day in-person (starting at $10,000). All start with a free discovery call. -> [disruptionjoe.com/teams](https://disruptionjoe.com/teams/)
 
-**[CapacityOS](https://github.com/disruptionjoe/CapacityOS)** / A fourth-generation personal agent harness I use daily, soon to be open sourced. Cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering keep real work moving without losing control.
+**$295 Sessions** / Two one-hour sessions you can book right now with no discovery call. Team Diagnostic ($295) for a focused read on where your team stands with AI. Individual AI Session ($295) built around your actual workflow. -> [disruptionjoe.com/pricing](https://disruptionjoe.com/pricing.html)
+
+---
+
+## What I Build
+
+**[Caret^](https://github.com/disruptionjoe/caret)** / Open source semantic notation for agent workflows in Markdown. It restores expressivity to prompts: volume, timbre, tone, and scalar directives instead of piles of scaffolding. Practical, inspectable, and built with real engineering discipline. Across our sample set, prompt length was reduced by 95.8% using Caret notation.
+
+**[CapacityOS](https://github.com/disruptionjoe/CapacityOS)** / A fourth-generation personal agent harness I use daily. Cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering keep real work moving without losing control.
+
+**[AI Activations Playbook](https://github.com/disruptionjoe/AI-Activations-Playbook)** / The facilitation methodology underneath my team sessions. Structured arcs, plays, and moves designed for AI adoption contexts.
 
 I am not advising on agent systems from the outside. I am living inside them.
 
 ---
 
-## What I Do
-
-**Agent System Design** / Notation design, harness architecture, skill compression, workflow optimization. The stuff that makes agent systems perform instead of just demo well.
-
-**AI Sessions** / I sit down with real people, one at a time, and help them find where AI is actually useful in their life or work. Not a tutorial, not a course. A focused conversation built around their actual situation. → [disruptionjoe.com](https://disruptionjoe.com)
-
-**Team AI Sessions and Strategy Services** / For teams building agent systems, launching AI strategy, or stuck in the drag of unclear priorities and messy execution. Engagements start at $900. A decade of operator experience across 8 companies, 100+ startups advised, $400M+ combined valuation exposure.
-
----
-
 ## Background
 
-- Created Caret^: an expressivity layer for agent workflows, not just another framework
-- Built and run CapacityOS daily
+- Designed fraud detection systems and human-in-the-loop ML pipelines before ChatGPT existed
+- Helped shape $50M+ in public-goods funding experiments with detection work that prevented roughly $3M in fraud
+- Launched or operated 8 companies, advised 100+ startups
 - Designed agent marketplace standards before most people first heard the word "agent"
-- Helped shape $50M+ in public-goods funding experiments and fraud-resistant systems
-- 8 companies launched or operated
-- 100+ startups and clients advised
-- Sessions with real people across industries
+- Created Caret^ and built CapacityOS as daily-use tools, not demos
+- Pressure-tested design thinking and facilitation techniques across product design, leadership syncs, and governance decisions
 
 For detailed career history, see [RESUME.md](RESUME.md).
 For deep expertise areas with evidence, see [SKILLS-AND-EXPERIENCE.md](SKILLS-AND-EXPERIENCE.md).
@@ -47,9 +48,9 @@ For deep expertise areas with evidence, see [SKILLS-AND-EXPERIENCE.md](SKILLS-AN
 
 | File | What It Is |
 |------|-----------|
+| [SERVICES.md](SERVICES.md) | Service offerings and pricing |
 | [RESUME.md](RESUME.md) | Professional background, compact and scannable |
 | [WORKING-WITH-JOE.md](WORKING-WITH-JOE.md) | Working style, communication, how to get the best out of me |
-| [SERVICES.md](SERVICES.md) | Service offerings and pricing |
 | [SKILLS-AND-EXPERIENCE.md](SKILLS-AND-EXPERIENCE.md) | Deep expertise areas with relevant experience and evidence |
 | [AGENT.md](AGENT.md) | Instructions for AI agents reading this repo |
 | [writing/](writing/) | Curated writing samples with context |
@@ -58,9 +59,10 @@ For deep expertise areas with evidence, see [SKILLS-AND-EXPERIENCE.md](SKILLS-AN
 
 ## Get in Touch
 
-**Sessions or consulting:** [disruptionjoe.com](https://disruptionjoe.com)
+**Teams or consulting:** [disruptionjoe.com/teams](https://disruptionjoe.com/teams/)
+**Individual sessions:** [disruptionjoe.com/people](https://disruptionjoe.com/people/)
 **Caret^ contributions:** See the [repo's contributing guide](https://github.com/disruptionjoe/caret)
-**Direct:** joe@disruptionjoe.com · [@DisruptionJoe](https://twitter.com/DisruptionJoe) · [LinkedIn](https://linkedin.com/in/disruptionjoe)
+**Direct:** joe@disruptionjoe.com . [@DisruptionJoe](https://twitter.com/DisruptionJoe) . [LinkedIn](https://linkedin.com/in/disruptionjoe)
 
 ---
 
