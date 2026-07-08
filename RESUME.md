@@ -30,7 +30,7 @@ Designing and delivering AI Activation sessions for teams, running individual AI
 
 **Caret^** /Created an open source semantic notation for agent workflows that restores expressivity in Markdown with scalar directives and layered scope. Prompt length reduced by 95.8% across sample set. [github.com/disruptionjoe/caret](https://github.com/disruptionjoe/caret)
 
-**CapacityOS** /Built a fourth-generation personal agent harness with cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering. Used daily. [github.com/disruptionjoe/CapacityOS](https://github.com/disruptionjoe/CapacityOS)
+**CapacityOS** /Built a personal agent operating environment with cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering. Used daily; public status and links are evolving.
 
 ### Pure /Co-founder
 **2025**

@@ -56,7 +56,7 @@ You may not have started at all. You may be customizing agent harnesses. I meet 
 
 This is not strategy consulting from someone who reads about AI. I sit at the intersection of three skill sets that rarely overlap: real AI and ML depth (fraud detection systems, human-in-the-loop pipelines, agent infrastructure), a decade of startup operating experience (8 companies, 100+ startups advised), and deep design thinking and facilitation instincts pressure-tested across product design, leadership syncs, and high-stakes governance decisions.
 
-I build the tools I use daily: [Caret^](https://github.com/disruptionjoe/caret), an open source notation that reduced prompt length by 95.8% across our sample set, and [CapacityOS](https://github.com/disruptionjoe/CapacityOS), a personal agent harness with cadence-driven orchestration and structured human-agent handoff.
+I build the tools I use daily: [Caret^](https://github.com/disruptionjoe/caret), an open source notation that reduced prompt length by 95.8% across our sample set, and CapacityOS, a personal agent operating environment with cadence-driven orchestration and structured human-agent handoff.
 
 ---
 

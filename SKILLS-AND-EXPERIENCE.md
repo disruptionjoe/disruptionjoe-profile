@@ -40,7 +40,7 @@ I build the systems that make agent workflows reliable, efficient, and maintaina
 
 **Relevant experience**
 - Created [Caret^](https://github.com/disruptionjoe/caret), an open source semantic notation for agent workflows in Markdown. The core problem it solves is expressivity: scalar directives and layered scope make prompt intent more legible, with token savings as a practical secondary benefit. The project has a working spec, formal semantics, a security model, and governance.
-- Built [CapacityOS](https://github.com/disruptionjoe/CapacityOS), a fourth-generation personal agent harness I use daily to process hundreds of tasks. It centers cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering. Soon to be open sourced.
+- Built CapacityOS, a personal agent operating environment I use daily to process hundreds of tasks. It centers cadence-driven orchestration, structured human-agent handoff, and dashboard-first steering. Public status and links are evolving.
 - At Mother in January 2025, I worked on one of the earliest agent-focused startups, helping think through product and protocol design for an agent-native marketplace system.
 
 **Hidden gem**
