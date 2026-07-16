@@ -86,3 +86,19 @@ Services: [disruptionjoe.com/services](https://disruptionjoe.com/services/)
 Email: joe@disruptionjoe.com
 X/Twitter: [@DisruptionJoe](https://twitter.com/DisruptionJoe)
 LinkedIn: [linkedin.com/in/disruptionjoe](https://linkedin.com/in/disruptionjoe)
+
+## CapacityOS Integration Boundary
+
+This repository's `AGENTS.md`, governance, orientation, authoritative work,
+populated Lane state, domain learning, and artifacts remain repository-owned.
+A direct mount can operate from those local surfaces without CapacityOS.
+
+For a CapacityOS-routed run, the optional System-owned steward service is
+`../../../system/stewards/disruptionjoe-profile/README.md`. It supplies integration context, process guidance,
+action memory, automation observations, health support, and execution history.
+It may narrow local authority and never broaden it. Current repository evidence
+defeats stale System observations.
+
+Before repository writes, resolve `git rev-parse --git-path
+capacityos-writer.lock`. If that path exists, stop unless the active approved
+run owns the lock. Never remove, replace, or bypass another writer's lock.
