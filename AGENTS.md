@@ -103,7 +103,7 @@ Before repository writes, resolve `git rev-parse --git-path
 capacityos-writer.lock`. If that path exists, stop unless the active approved
 run owns the lock. Never remove, replace, or bypass another writer's lock.
 
-## Joe Domain Relationship
+## JOE Domain Relationship
 
 `primary_domain: joe`, accepted relationship `JOE-REL-007`, revision `1`.
 Joe Governance Operations owns the matching relationship record. This public
