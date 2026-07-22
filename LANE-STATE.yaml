@@ -1,0 +1,63 @@
+schema_version: '2.0'
+owner_id: disruptionjoe-profile
+group: joe
+updated_at: '2026-07-22T09:30:00-05:00'
+run_ref: manual-session:2026-07-22-start-the-day
+bottom_line: The public profile is stable and manually governed; no profile change currently needs Joe.
+decision_default: Keep the profile manual and update it only through an authorized repository batch.
+needs_joe: false
+lanes:
+- lane_id: '1'
+  work_status: thin
+  last_movement: Purpose, passion, and practice were added to repository guidance.
+  movement_ref: AGENTS.md
+  steering_attention: none
+  steering_prompt: none
+  steering_ref: README.md
+  light: green
+  reason_code: manual_path_available_profile_stable
+  evidence_ref: README.md
+  summary: The profile remains current enough for manual use and has no pending Joe action.
+  evaluated_at: '2026-07-22T09:30:00-05:00'
+  run_ref: manual-session:2026-07-22-start-the-day
+  objective: Keep Joe's public identity, credibility, and body of work understandable and accurate.
+  progress_delta: Repository guidance gained purpose, passion, and practice; public profile content stayed stable.
+  scope_position: Stable public orientation surface with no active update batch.
+  trend_24h: flat
+  confidence: high
+  recommendation: Keep the profile manual and stable.
+  findings:
+  - The website remains the current commercial source; the profile remains a bounded orientation surface.
+  options:
+  - {label: A, recommended: true, action: Keep the current profile stable.}
+  - {label: B, recommended: false, action: Prepare a bounded profile update when current public evidence changes.}
+  decision_default: Make no profile change.
+  needs_joe: false
+- lane_id: A
+  work_status: thin
+  last_movement: Repository guidance was refreshed without changing public claims.
+  movement_ref: AGENTS.md
+  steering_attention: none
+  steering_prompt: none
+  steering_ref: AGENTS.md
+  light: green
+  reason_code: manual_stewardship_path_available
+  evidence_ref: AGENTS.md
+  summary: Manual stewardship is available and no integrity concern currently needs Joe.
+  evaluated_at: '2026-07-22T09:30:00-05:00'
+  run_ref: manual-session:2026-07-22-start-the-day
+  objective: Keep the public profile accurate, bounded, and useful without overstating claims.
+  progress_delta: Governance guidance changed; public claims and external surfaces did not.
+  trend_24h: flat
+  confidence: high
+  recommendation: Preserve manual stewardship.
+  findings:
+  - No public claim, profile integrity, or external-action exception is visible.
+  options:
+  - {label: A, recommended: true, action: Continue manual stewardship.}
+  - {label: B, recommended: false, action: Review a specific integrity exception when evidence appears.}
+  decision_default: Continue manual stewardship.
+  needs_joe: false
+  drift_verdict: clean
+  action_counts: {mail: 0, reconciled: 0, integrity_repairs: 0, seeds_routed: 0, escalations: 0}
+  attention_pointer: Nothing needs you; the public profile is stable.
