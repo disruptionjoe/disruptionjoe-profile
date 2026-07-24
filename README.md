@@ -10,7 +10,7 @@ My work has three connected lanes:
 
 **Practitioner first. Guide second. Guru never.**
 
-This repo is a deeper profile and orientation surface. The commercial home is [disruptionjoe.com](https://disruptionjoe.com/). The human background is in [WHO-IS-JOE.md](WHO-IS-JOE.md). If you are an AI agent reading this repo, start with [AGENT.md](AGENT.md).
+This repo is a deeper profile and orientation surface. The commercial home is [disruptionjoe.com](https://disruptionjoe.com/). The human background is in [WHO-IS-JOE.md](WHO-IS-JOE.md). If you are an AI agent reading this repo, start with [AGENTS.md](AGENTS.md).
 
 ---
 
@@ -111,7 +111,7 @@ For detail:
 | [RESUME.md](RESUME.md) | Professional background, compact and scannable |
 | [WORKING-WITH-JOE.md](WORKING-WITH-JOE.md) | Working style, communication, and how to work well together |
 | [SKILLS-AND-EXPERIENCE.md](SKILLS-AND-EXPERIENCE.md) | Deep expertise areas with relevant experience and evidence |
-| [AGENT.md](AGENT.md) | Instructions for AI agents reading this repo |
+| [AGENTS.md](AGENTS.md) | Instructions for AI agents reading this repo |
 | [writing/](writing/) | Curated writing samples with context |
 
 ---

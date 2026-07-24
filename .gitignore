@@ -13,3 +13,6 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.bak
+
+# Local CapacityOS run records (never public profile content)
+steward/runs/
